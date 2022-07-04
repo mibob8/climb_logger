@@ -1,0 +1,26 @@
+/* Container needed to position the button. Adjust the width as needed */
+ 
+  /* Style the button and place it in the middle of the container/image */
+  /* .headeraddclimb {
+    position: absolute;
+    top: 0%;
+    right: 17%; 
+    max-width: fit-content;
+  } 
+
+  .headerlogin {
+    position: absolute;
+    top: 0%;
+    right: 0%; 
+  }  */
+
+  .button { 
+    float:left;
+    color: white;
+}
+
+  .button-wrapper {
+    position: absolute;
+    top: 0%;
+    right: 0%; 
+}
